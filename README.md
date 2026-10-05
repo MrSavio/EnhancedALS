@@ -16,4 +16,17 @@ It includes a few changes in order to be a good starter project using newer UE5 
 * Animation based Camera System replaced with Gameplay Camera System
 * AI Behavior Tree systems replaced with State Tree systems
 * Replication
+* Surface based Footstep Audio
+
+
+
+#### **Plugins Included**
+
+* AttributeManager
+* PersistentMusic
+* SavioCommonUI
+* SavioDevices
+* SavioFuncions
+* SpawnActorManager
+* StateManager
 
