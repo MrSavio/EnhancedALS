@@ -18,15 +18,3 @@ It includes a few changes in order to be a good starter project using newer UE5 
 * Replication
 * Surface based Footstep Audio
 
-
-
-#### **Plugins Included**
-
-* AttributeManager
-* PersistentMusic
-* SavioCommonUI
-* SavioDevices
-* SavioFuncions
-* SpawnActorManager
-* StateManager
-
