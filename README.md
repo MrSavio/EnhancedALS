@@ -11,10 +11,21 @@ It includes a few changes in order to be a good starter project using newer UE5 
 
 
 * Old input system replaced with Enhanced Input
-* Animation Blueprint using Blueprint Thread Safe operations
-* Overlay State system replaced with Linked Anim Class Layering
 * Animation based Camera System replaced with Gameplay Camera System
+* First Person Camera System improvements
+
+
+
+
+
+Current Work in progress:
+
+* Procedural Aim Down Sight System
+* Control Rig for Mannequin
+* Base Materials and Shaders for many different use cases
+* UI using CommmonUI
+* Multiple testing maps / arenas
+* Surface based Footstep Audio
 * AI Behavior Tree systems replaced with State Tree systems
 * Replication
-* Surface based Footstep Audio
 
